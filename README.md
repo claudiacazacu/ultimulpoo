@@ -1,12 +1,11 @@
-# Titlu proiect
+# POKEMON BATTLE
 
 ## Descriere proiect
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
+Pokemon Battle este un joc tactic turn-based, în care doi jucători își aleg fiecare câte un Pokémon și se confruntă într-o luptă strategică. Fiecare jucător își planifică atent mișcările, alegând pe rând atacuri sau abilități speciale pentru Pokémonul său. Deciziile luate influențează desfășurarea bătăliei, iar victoria revine celui care își folosește cel mai bine strategiile și cunoașterea punctelor forte și slabe ale adversarului.
 ## Milestone #0
 
-- [ ] Nume proiect (poate fi schimbat ulterior)
-- [ ] Scurtă descriere a temei alese, ce v-ați propus să implementați
+- [x] Nume proiect (poate fi schimbat ulterior)
+- [x] Scurtă descriere a temei alese, ce v-ați propus să implementați
 
 ## Milestone #1
 
